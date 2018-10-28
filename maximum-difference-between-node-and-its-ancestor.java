@@ -1,4 +1,3 @@
-{
 //Initial Template for Java
 import java.util.Scanner;
 class Node
@@ -67,7 +66,6 @@ class BinaryTree
     }
     
     
-}
 }
 
 /*Please note that it's Function problem i.e.
