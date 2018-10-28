@@ -1,4 +1,4 @@
-//Initial Template for Java
+// https://practice.geeksforgeeks.org/problems/maximum-difference-between-node-and-its-ancestor/1
 import java.util.Scanner;
 class Node
 {
