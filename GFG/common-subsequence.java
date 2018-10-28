@@ -24,6 +24,27 @@ class GFG {
         //     System.out.println(Arrays.toString(csArray[i]));
         // }
         // return csArray[a.length][b.length];
+	    
+        // int index = csArray[a.length][b.length];
+        // char subSeq[] = new char[index];
+        // int i = a.length;
+        // int j = b.length;
+        // while(i > 0 && j > 0) {
+        //     if(a[i-1] == b[j-1]) {
+        //         subSeq[index-1] = a[i-1];
+        //         i--;
+        //         j--;
+        //         index--;
+        //     } else {
+        //         if(csArray[i-1][j] > csArray[i][j-1]) {
+        //             i--;
+        //         } else {
+        //             j--;
+        //         }
+        //     }
+        // }
+        // System.out.println(Arrays.toString(subSeq));
+        
         
         return (csArray[a.length][b.length] >= 1) ? 1 : 0;
     }
