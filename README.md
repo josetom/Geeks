@@ -1,3 +1,6 @@
 # Geeks
 
-Geeks : Geeks for geeks test solutions
+personal repo for timepass
+
+GFG : Geeks for geeks
+project-euler
